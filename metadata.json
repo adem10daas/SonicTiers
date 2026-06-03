@@ -1,0 +1,6 @@
+{
+  "name": "sonictiers",
+  "description": "The premier competitive Minecraft ranking and PvP evaluation platform 'sonictiers' with automated tier placements, lightning-fast live leaderboards, and Minecraft skin integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
